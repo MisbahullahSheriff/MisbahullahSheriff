@@ -7,4 +7,4 @@
 
 ### Contact:
 * E-Mail: misbahullahsheriff@gmail.com
-* [LinkedIN](www.linkedin.com/in/mohammed-misbahullah-sheriff)
+* [LinkedIN](https://www.linkedin.com/in/mohammed-misbahullah-sheriff/)
