@@ -2,7 +2,7 @@
 
 ### Passionate about Machine Learning and Data Analytics
 
-- 🔭 I’m currently working on a House Prices Predictor Web App using Machine Learning
+- 🔭 I’m currently working on a Stroke Predictor Web App using Machine Learning
 - 🌱 I’m currently learning SQL and Power BI
 - 👯 I’m looking to collaborate on end-to-end Machine Learning Projects
 - 💬 Ask me about Machine Learning
