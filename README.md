@@ -32,7 +32,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 
 - **Programming**: Python
 - **Technologies**: Machine Learning
-- **Frameworks**: Scikit-Learn
+- **Frameworks**: Scikit-Learn | Optuna
 - **Visualization**: Matplotlib | Seaborn
 - **Data Analysis**: Pandas | Numpy | Scipy
 - **Development**: Streamlit
