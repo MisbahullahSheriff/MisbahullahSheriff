@@ -1,6 +1,6 @@
 # Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Misbah 😀
 
-## Passionate about Machine Learning and Data Analytics
+## Passionate about AI and Data Analytics
 
 - 🔭 I’m currently working on a Stroke Predictor Web App using Machine Learning
 - 🌱 I’m currently learning SQL and Power BI
