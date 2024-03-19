@@ -37,7 +37,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 - **Frameworks**: Scikit-Learn | Optuna
 - **Visualization**: Matplotlib | Seaborn
 - **Data Analysis**: Pandas | Numpy | Scipy
-- **Development**: Streamlit
+- **Development**: Streamlit | FastAPI
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MisbahullahSheriff&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
