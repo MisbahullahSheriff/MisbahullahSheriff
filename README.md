@@ -34,6 +34,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 - **Programming**: Python | SQL
 - **Database**: MySQL
 - **Technologies**: Machine Learning
+- **Cloud**: AWS SageMaker | AWS S3 | AWS EC2
 - **Frameworks**: Scikit-Learn | Optuna
 - **Visualization**: Matplotlib | Seaborn
 - **Data Analysis**: Pandas | Numpy | Scipy
