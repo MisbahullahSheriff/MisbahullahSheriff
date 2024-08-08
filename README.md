@@ -2,8 +2,8 @@
 
 ## Passionate about AI and Data Analytics
 
-- 🔭 I’m currently working on a Stroke Predictor Web App using Machine Learning
-- 🌱 I’m currently learning SQL and Power BI
+- 🔭 I’m currently pursing a Masters degree in AI
+- 🌱 I’m currently learning SQL and Deep Learning
 - 👯 I’m looking to collaborate on end-to-end Machine Learning Projects
 - 💬 Ask me about Machine Learning
 - 📫 How to reach me: misbahullahsheriff@gmail.com
