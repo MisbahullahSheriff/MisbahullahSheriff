@@ -1,47 +1,48 @@
-# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Misbah 😀
+# Hey there! I'm Misbah 👋
 
-## Passionate about AI and Data Analytics
+I'm an **AI Engineer** passionate about building intelligent applications and taking AI solutions from experimentation to production. I enjoy exploring the intersection of AI and Software Engineering, building practical solutions, and sharing what I learn along the way.
 
-- 🔭 I’m currently pursing a Masters degree in AI
-- 🌱 I’m currently learning SQL and Deep Learning
-- 👯 I’m looking to collaborate on end-to-end Machine Learning Projects
-- 💬 Ask me about Machine Learning
-- 📫 How to reach me: misbahullahsheriff@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've been told I dance well 🤭
+🎥 **Creator of [TechWithMiz](https://www.youtube.com/@techwithmiz)** --- *Learn. Build. Innovate.*
 
-<img align="right" alt="coding" width="375" height="250" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+------------------------------------------------------------------------
 
-## Socials:
+## 🚀 What I'm Currently Working On
 
-<p align="left">
-<a href="https://linkedin.com/in/mohammed-misbahullah-sheriff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-misbahullah-sheriff" height="30" width="40" /></a>
-<a href="https://instagram.com/misbah__official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="misbah__official" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/misbahullahsher1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="misbahullahsher1" height="30" width="40" /></a>
-</p>
+-   🤖 Building AI agents and intelligent applications.
+-   🧠 Exploring LLMs, RAG architectures, and Generative AI.
+-   ⚙️ Learning and implementing LLMOps and AI observability.
+-   🔍 Experimenting with vector databases, knowledge graphs, and
+    retrieval systems.
+-   🛠️ Building production-ready AI applications.
 
-## Skills:
+## 🎥 TechWithMiz
 
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-</p>
+I also create educational content to make AI and Software Engineering easier to understand.
 
-- **Programming**: Python | SQL | Blue Prism
-- **Database**: MySQL | MongoDB
-- **Technologies**: Machine Learning | Deep Learning | RPA
-- **Cloud**: AWS SageMaker | AWS S3 | AWS EC2
-- **Version Control**: GIT | GitHub
-- **Frameworks**: Tensorflow | Keras | Scikit-Learn | Optuna
-- **Visualization**: Matplotlib | Seaborn
-- **Data Analysis**: Pandas | Numpy | Scipy
-- **Development**: Streamlit | FastAPI | Flask
+On **TechWithMiz**, you'll find:
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MisbahullahSheriff&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MisbahullahSheriff&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MisbahullahSheriff&theme=gotham&hide_border=false)<br/>
+-   AI Engineering & Generative AI
+-   LLMs, RAG & AI Agents
+-   Python & Machine Learning
+-   MLOps & LLMOps
+-   Software Engineering & System Design
+-   Hands-on projects and tutorials
+
+👉 **[Subscribe to TechWithMiz on YouTube](https://www.youtube.com/@techwithmiz)**
+
+## 🌐 Let's Connect!
+
+I'm always interested in connecting with fellow developers, AI enthusiasts, and people building interesting things.
+
+- LinkedIn: [Misbah](https://www.linkedin.com/in/mohammed-misbahullah-sheriff/)
+- YouTube: [TechWithMiz](https://www.youtube.com/@techwithmiz)
+- X: [@TechWithMiz](https://x.com/techwithmiz)
+- Instagram: [@TechWithMiz](https://www.instagram.com/techwithmiz/)
+
+------------------------------------------------------------------------
+
+### 💡 My Philosophy
+
+*"Don't just learn the technology. Understand it, build with it, and make something meaningful."*
+
+**Thanks for stopping by! Happy Coding! 🚀**
